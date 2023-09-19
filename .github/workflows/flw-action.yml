@@ -26,10 +26,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Execution migrations
-        uses: ./
-        with:
-          url: jdbc:mysql://db4free.net:3306/banco73tes_db
-          user: jainaso73
-          password: admin123
-      - run: echo 'testing'
+#      - name: Execution migrations
+#        uses: ./
+#        with:
+#          url: jdbc:mysql://db4free.net:3306/banco73tes_db
+#          user: jainaso73
+#          password: admin123
+#      - run: echo 'testing'

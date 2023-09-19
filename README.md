@@ -1,1 +1,4 @@
+# Execução Migrations Flyway com Github Action 
+[![GitHub Pipeline Flyway](https://github.com/jairosousa/perform_migration_flw/actions/workflows/flw-action.yml/badge.svg)](https://github.com/jairosousa/perform_migration_flw/actions/workflows/flw-action.yml)
+
 [Criando uma ação de contêiner do Docker](https://docs.github.com/pt/actions/creating-actions/creating-a-docker-container-action)
